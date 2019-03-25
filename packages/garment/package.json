@@ -1,0 +1,12 @@
+{
+  "name": "garment",
+  "version": "0.0.1",
+  "bin": {
+    "garment": "bin/cli.js"
+  },
+  "dependencies": {
+    "@garment/cli": "^0.0.1",
+    "lerna": "^3.13.1"
+  },
+  "license": "MIT"
+}
